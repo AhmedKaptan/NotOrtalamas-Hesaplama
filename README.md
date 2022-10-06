@@ -1,0 +1,2 @@
+# NotOrtalamas-Hesaplama
+Java Pratikleri
